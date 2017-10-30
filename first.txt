@@ -1,3 +1,6 @@
-t
+this is my first text file cretaed :wq
+
+C
+fsdhsdt
 
 
