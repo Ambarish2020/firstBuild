@@ -2,5 +2,5 @@ this is my first text file cretaed :wq
 
 C
 fsdhsdt
-
+my first Devops training started on 21st Oct 
 
